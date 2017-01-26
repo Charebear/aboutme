@@ -1,0 +1,23 @@
+	body {
+	background-color: rgb(128, 255, 128);
+	color: green;
+	font-size: 30px;
+	text-align: center;
+}	
+	h1 {
+     	text-align: center;
+     	color: rgb(0, 204, 163);
+     	outline: #00FF00 dotted thick;
+		}
+	h4 {
+		text-align: center;
+		}
+	h5 {
+		text-align: center;
+		color: white;
+		font-family: Comic Sans MS;
+	}
+
+	a {
+		color: inherit;
+	}
